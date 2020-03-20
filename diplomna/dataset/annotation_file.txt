@@ -1,97 +1,97 @@
-file_name,timestamp,annotation_title,annotation_url
-third presidential debate,20121023,,
-GOP cleveland,20150805,Part 1 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=GzPIbX1pzDg
-GOP cleveland,20150805,Part 2 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=6eGK4dg1IVY
-GOP cleveland,20150805,Part 3 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=Uaujjp3JKGY
-GOP cleveland,20150805,Part 4 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=aFkPHp9BR2o
-GOP cleveland,20150805,Part 5 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=0oSFZr3udNM
-GOP cleveland,20150805,Part 6 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=VeS9oKNzgMQ
-GOP cleveland,20150805,Part 7 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=SGKaluT4d5A 
-democrats las vegas,20151013,,
-GOP boulder,20151028,,
-GOP milwuakee,20151110,,
-Obama state of the union,20160112,2016 State of the Union Address,https://www.youtube.com/watch?v=cCXSO-3mt5I
-rick scott state of the state,20160112,rick scott state of the state,https://postonpolitics.blog.palmbeachpost.com/2016/01/12/read-gov-rick-scotts-2016-state-of-the-state-address/
-GOP charleston,20160115,,
-democrats charleston,20160117,NBC News-YouTube Democratic Debate,https://www.youtube.com/watch?v=ti2Nokoq1J4
-democrats new hampshire,20160204,democrats new hampshire,https://www.rev.com/blog/transcripts/new-hampshire-democratic-debate-transcript
-democrats milwuakee,20160211,(2/11/2016) PBS Democratic Presidential Debate,https://www.youtube.com/watch?v=oRwLsNpI7OM 
-GOP greenville,20160213,,
-GOP texas,20160225,,
-GOP michigan,20160303,Part 1 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=GzPIbX1pzDg    
-GOP michigan,20160303,Part 2 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=6eGK4dg1IVY
-GOP michigan,20160303,Part 3 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=Uaujjp3JKGY
-GOP michigan,20160303,Part 4 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=aFkPHp9BR2o
-GOP michigan,20160303,Part 5 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=0oSFZr3udNM
-GOP michigan,20160303,Part 6 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=VeS9oKNzgMQ
-GOP michigan,20160303,Part 7 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=SGKaluT4d5A
-democrats flint,20160307,CNN Flint MI Democratic Debate 2016 03 06 Eng Subs,https://www.youtube.com/watch?v=sacoa10l-DY
-democrats miami,20160309,Florida Democratic Debate presented by Univision & The Washington Post,https://www.youtube.com/watch?v=OqgTFA1HnUM
-GOP miami,20160311,Republican Presidential Debate In Miami (part.1),https://www.youtube.com/watch?v=-SIVCOwnnDI
-GOP miami,20160311,Republican Presidential Debate In Miami (part.2),https://www.youtube.com/watch?v=o5TvjO9Ljec
-kasich milwuakee,20160329,,
-Cruz Miluakee,20160331,,
-Trump Milwaukee,20160401,Forum: CNN Town Hall With Donald Trump - Milwaukee WI - March 29 2016,https://www.youtube.com/watch?v=Mtv3L5eBVmw
-Hillary meet the press,20160404,,
-NY democratic debate,20160415,Bernie Sanders Highlights at Democratic Debate in Brooklyn New York Apr 14 2016,https://www.youtube.com/watch?v=NQTOUujWjek
-meet the press,20160417,,
-meet the press,20160424,,
-Cruz meet the press,20160501,,
-Trump meet the press,20160508,,
-Hillary lying for 13 minutes video,20160520,Hillary Clinton lying for 13 minutes straight,https://www.youtube.com/watch?v=-dY77j6uBHI
-Hillary meet the press,20160522,Hillary Clinton On Emails(Full Interview),https://www.youtube.com/watch?v=I9E9-lZ456A
-Sanders MeetThePress,20160529,,
-Trump NY Soho,20160622,Donald Trump in New York,https://www.youtube.com/watch?v=-oD-7TjHNsU
-Trump draft RNC,20160721,Donald Trump's entire Republican convention speech,https://www.youtube.com/watch?v=Fs0pZ_GrTy8
-Trump immigration Phoenix,20160901,,
-NBC commander in chief forum,20160907,Donald Trump Participates in Commander-In-Chief Forum,https://www.youtube.com/watch?v=-yNVAx68FB0
-1pres,20160926,The First Presidential Debate: Hillary Clinton And Donald Trump (Full Debate),https://www.youtube.com/watch?v=855Am6ovK7s
-vice pres,20161005,The Vice-Presidential Debate: Tim Kaine And Mike Pence,https://www.youtube.com/watch?v=mVXqNcW_-HA
-2pres,20161010,Watch Live: The 2nd Presidential Debate,https://www.youtube.com/watch?v=ooShpws3Dik
-3pres,20161019,Watch the Final Clinton-Trump Debate (Full Debate - 10/19/16),https://www.youtube.com/watch?v=6ru6uvTq39I
-Trump press conference,20170111,Watch Live: Donald Trump holds his first press conference as President-elect,https://www.youtube.com/watch?v=0l4bQYZcaQk
-Trump inauguration,20170120,The Presidential Inauguration on CBSN,https://www.youtube.com/watch?v=Z7hET4Xp0qQ
-Trump ABC,20170126,,
-Trump Oreilly,20170205,,
-Sanders Cruz healthcare debate,20170207,Sen. Cruz and Sen. Sanders Debate Tax Reform on CNN - October 18 2017,https://www.youtube.com/watch?v=izKL_3tmpM0
-Trump press conference,20170216,President Trump Holds a Press Conference,https://www.youtube.com/watch?v=Ct0H_ndjavM
-Trump Florida,20170218,,
-Tump CPAC,20170224,,
-Trump Congress joint session,20170228,,
-Trump Nashville,20170315,Donald Trump Rally in Nashville TN,https://www.youtube.com/watch?v=JNS-CDL80Xo
-Trump Times Interview,20170323,,
-Trump CEO TownHall,20170404,President Trump Hosts a CEO Town Hall on the American Business Climate,https://www.youtube.com/watch?v=8eGlB7XAE5Q
-Trump AP interview,20170424,,
-Trump CBS FactTheNation,20170430,,
-Trump NBC holt interview,20170512,,
-Trump Paris Climate,20170601,President Trump Announces Decision To Withdraw From Paris Climate Accord,https://www.youtube.com/watch?v=HadqmiuO7dA
-Trump Roberston interview,20170713,"Pat Robertson's Exclusive Interview with Donald Trump",https://www.youtube.com/watch?v=I0X4epmPrck
-Trump Healthcare,20170724,Live Stream: President Trump Healthcare Speech 7/24/17,https://www.youtube.com/watch?v=5Mh7dN_h0Ok
-Trump NY Police,20170728,President Trump Gives Remarks on MS-13 to Federal State and Local Law Enforcement,https://www.youtube.com/watch?v=BFmTMbWluWY
-Trump WV,20170803,President Trump Holds West Virginia Rally,https://www.youtube.com/watch?v=8-YMd3gDClE
-Trump phoenix,20170822,"President Trump's full rally in Phoenix",https://www.youtube.com/watch?v=pfTvvLObtSc
-Trump UNGA,20170919,President Donald Trump Addresses the UN General Assembly,https://www.youtube.com/watch?v=YNOODD0wxZg
-JimmyKimmel GrahamCassidy Bill,20170920,"Jimmy Kimmel Fights Back Against Bill Cassidy, Lindsey Graham & Chris Christie",https://www.youtube.com/watch?v=wB5Hek7Z2b8
-Jimmy Kimmel LasVegas Shooting,20171003,Jimmy Kimmel on Mass Shooting in Las Vegas,https://www.youtube.com/watch?v=ruYeBXudsds
-Zuckerburgh Confession,20180412,Facebook CEO Mark Zuckerberg Delivers Opening Statement At Senate Hearing,https://www.youtube.com/watch?v=UofMQ8EGmSc
-Trump Fox Friends,20180426,Full interview: Trump calls in to Fox & Friends,https://www.youtube.com/watch?v=rx5hA9G_bac
-Trump NRA,20180504,"Donald Trump's full speech at NRA annual convention",https://www.youtube.com/watch?v=ZWHmP2dEq2k
-Trump Naval,20180525,President Donald Trump Speaks At Naval Academy Graduation,https://www.youtube.com/watch?v=gGYGHeLjHsQ
-Trump Singapore,20180612,"President Donald Trump's full Singapore press conference after historic North Korea summit",https://www.youtube.com/watch?v=1sGxi8Yv_vQ
-Trump lawn,20180615,,
-Trump NorthDakota,20180628,Watch Live: President Trump campaigns at rally in North Carolina,https://www.youtube.com/watch?v=yXDMeXLjTOI
-Trump NATO,20180712,President Trump speech at NATO summit Brussels Belgium. July 12 2018,https://www.youtube.com/watch?v=2rzYo_POpys
-Trump Tampa,20180731,President Trump Holds Rally in Tampa,https://www.youtube.com/watch?v=9d1_suLx5p0
-Trump Charleston,20180821,President Trump Holds Make America Great Again Rally,https://www.youtube.com/watch?v=g-dlmJf69GY
-60 min,20181015,,
-california senate,20181018,Califonia U.S. Senate Debate,https://www.youtube.com/watch?v=03PlS2np2wA
-Hawley McCaskil,20181018,The Missouri 2018 Senate Debate Republican Josh Hawley and Democrat Claire McCaskill,https://www.youtube.com/watch?v=B61JWZWDUm8
-DeSantis Gillum,20181021,Florida Gubernatorial Debate Ron DeSantis vs Andrew Gillum,https://www.youtube.com/watch?v=0Yck_OrbTvI
-DeSantis Gillum,20181024,Florida Gubernatorial Debate Ron DeSantis vs Andrew Gillum 2,https://www.youtube.com/watch?v=9cqefZ13Ock
-McCready Harris,20181102,President Donald Trump hosts MAGA rally today in Huntington,https://www.youtube.com/watch?v=zkxIEQec778
-Trump Huntington,20181102,President Donald Trump hosts MAGA rally today in Huntington,https://www.youtube.com/watch?v=zkxIEQec778
-trump pelosi,20181112,"Watch the full, on-camera shouting match between Trump",https://www.youtube.com/watch?v=6wm-NtMkqz8
-Trump CPAC,20190304,President Trump Delivers Remarks at the CPAC,https://www.youtube.com/watch?v=xeAxdxAxdmU
-Trump Campain Florida,20190619,President Trump holds rally in Orlando Florida,https://www.youtube.com/watch?v=gqGIAKrCABQ
-democratic debate Detroit 1,20190730,FULL 2nd Democratic debate 30 July 2019 (Night 1),https://www.youtube.com/watch?v=neVtNFPTsiQ
-democratic debate Detroit 2,20190731,FULL 2nd Democratic debate 31 July 2019 (Night 2),https://www.youtube.com/watch?v=Z-Kkc7gpSlc
+file_name,timestamp,available_autogenerated_transcription,annotation_title,annotation_url
+third presidential debate,20121023,False,,
+GOP cleveland,20150805,True,Part 1 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=GzPIbX1pzDg
+GOP cleveland,20150805,True,Part 2 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=6eGK4dg1IVY
+GOP cleveland,20150805,True,Part 3 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=Uaujjp3JKGY
+GOP cleveland,20150805,True,Part 4 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=aFkPHp9BR2o
+GOP cleveland,20150805,True,Part 5 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=0oSFZr3udNM
+GOP cleveland,20150805,True,Part 6 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=VeS9oKNzgMQ
+GOP cleveland,20150805,True,Part 7 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=SGKaluT4d5A 
+democrats las vegas,20151013,False,,
+GOP boulder,20151028,False,,
+GOP milwuakee,20151110,False,,
+Obama state of the union,20160112,True,2016 State of the Union Address,https://www.youtube.com/watch?v=cCXSO-3mt5I
+rick scott state of the state,20160112,True,rick scott state of the state,https://postonpolitics.blog.palmbeachpost.com/2016/01/12/read-gov-rick-scotts-2016-state-of-the-state-address/
+GOP charleston,20160115,False,,
+democrats charleston,20160117,True,NBC News-YouTube Democratic Debate,https://www.youtube.com/watch?v=ti2Nokoq1J4
+democrats new hampshire,20160204,True,democrats new hampshire,https://www.rev.com/blog/transcripts/new-hampshire-democratic-debate-transcript
+democrats milwuakee,20160211,True,(2/11/2016) PBS Democratic Presidential Debate,https://www.youtube.com/watch?v=oRwLsNpI7OM 
+GOP greenville,20160213,False,,
+GOP texas,20160225,False,,
+GOP michigan,20160303,True,Part 1 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=GzPIbX1pzDg    
+GOP michigan,20160303,True,Part 2 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=6eGK4dg1IVY
+GOP michigan,20160303,True,Part 3 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=Uaujjp3JKGY
+GOP michigan,20160303,True,Part 4 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=aFkPHp9BR2o
+GOP michigan,20160303,True,Part 5 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=0oSFZr3udNM
+GOP michigan,20160303,True,Part 6 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=VeS9oKNzgMQ
+GOP michigan,20160303,True,Part 7 of the Fox News GOP presidential debate in Detroit,https://www.youtube.com/watch?v=SGKaluT4d5A
+democrats flint,20160307,True,CNN Flint MI Democratic Debate 2016 03 06 Eng Subs,https://www.youtube.com/watch?v=sacoa10l-DY
+democrats miami,20160309,True,Florida Democratic Debate presented by Univision & The Washington Post,https://www.youtube.com/watch?v=OqgTFA1HnUM
+GOP miami,20160311,True,Republican Presidential Debate In Miami (part.1),https://www.youtube.com/watch?v=-SIVCOwnnDI
+GOP miami,20160311,True,Republican Presidential Debate In Miami (part.2),https://www.youtube.com/watch?v=o5TvjO9Ljec
+kasich milwuakee,20160329,False,,
+Cruz Miluakee,20160331,False,,
+Trump Milwaukee,20160401,True,Forum: CNN Town Hall With Donald Trump - Milwaukee WI - March 29 2016,https://www.youtube.com/watch?v=Mtv3L5eBVmw
+Hillary meet the press,20160404,False,,
+NY democratic debate,20160415,True,Bernie Sanders Highlights at Democratic Debate in Brooklyn New York Apr 14 2016,https://www.youtube.com/watch?v=NQTOUujWjek
+meet the press,20160417,False,,
+meet the press,20160424,False,,
+Cruz meet the press,20160501,False,,
+Trump meet the press,20160508,False,,
+Hillary lying for 13 minutes video,20160520,True,Hillary Clinton lying for 13 minutes straight,https://www.youtube.com/watch?v=-dY77j6uBHI
+Hillary meet the press,20160522,True,Hillary Clinton On Emails(Full Interview),https://www.youtube.com/watch?v=I9E9-lZ456A
+Sanders MeetThePress,20160529,False,,
+Trump NY Soho,20160622,True,Donald Trump in New York,https://www.youtube.com/watch?v=-oD-7TjHNsU
+Trump draft RNC,20160721,True,Donald Trump's entire Republican convention speech,https://www.youtube.com/watch?v=Fs0pZ_GrTy8
+Trump immigration Phoenix,20160901,False,,
+NBC commander in chief forum,20160907,True,Donald Trump Participates in Commander-In-Chief Forum,https://www.youtube.com/watch?v=-yNVAx68FB0
+1pres,20160926,True,The First Presidential Debate: Hillary Clinton And Donald Trump (Full Debate),https://www.youtube.com/watch?v=855Am6ovK7s
+vice pres,20161005,True,The Vice-Presidential Debate: Tim Kaine And Mike Pence,https://www.youtube.com/watch?v=mVXqNcW_-HA
+2pres,20161010,True,Watch Live: The 2nd Presidential Debate,https://www.youtube.com/watch?v=ooShpws3Dik
+3pres,20161019,True,Watch the Final Clinton-Trump Debate (Full Debate - 10/19/16),https://www.youtube.com/watch?v=6ru6uvTq39I
+Trump press conference,20170111,True,Watch Live: Donald Trump holds his first press conference as President-elect,https://www.youtube.com/watch?v=0l4bQYZcaQk
+Trump inauguration,20170120,True,The Presidential Inauguration on CBSN,https://www.youtube.com/watch?v=Z7hET4Xp0qQ
+Trump ABC,20170126,False,,
+Trump Oreilly,20170205,False,,
+Sanders Cruz healthcare debate,20170207,True,Sen. Cruz and Sen. Sanders Debate Tax Reform on CNN - October 18 2017,https://www.youtube.com/watch?v=izKL_3tmpM0
+Trump press conference,20170216,True,President Trump Holds a Press Conference,https://www.youtube.com/watch?v=Ct0H_ndjavM
+Trump Florida,20170218,False,,
+Tump CPAC,20170224,False,,
+Trump Congress joint session,20170228,False,,
+Trump Nashville,20170315,True,Donald Trump Rally in Nashville TN,https://www.youtube.com/watch?v=JNS-CDL80Xo
+Trump Times Interview,20170323,False,,
+Trump CEO TownHall,20170404,True,President Trump Hosts a CEO Town Hall on the American Business Climate,https://www.youtube.com/watch?v=8eGlB7XAE5Q
+Trump AP interview,20170424,False,,
+Trump CBS FactTheNation,20170430,False,,
+Trump NBC holt interview,20170512,False,,
+Trump Paris Climate,20170601,True,President Trump Announces Decision To Withdraw From Paris Climate Accord,https://www.youtube.com/watch?v=HadqmiuO7dA
+Trump Roberston interview,20170713,True,Pat Robertson's Exclusive Interview with Donald Trump,https://www.youtube.com/watch?v=I0X4epmPrck
+Trump Healthcare,20170724,True,Live Stream: President Trump Healthcare Speech 7/24/17,https://www.youtube.com/watch?v=5Mh7dN_h0Ok
+Trump NY Police,20170728,True,President Trump Gives Remarks on MS-13 to Federal State and Local Law Enforcement,https://www.youtube.com/watch?v=BFmTMbWluWY
+Trump WV,20170803,True,President Trump Holds West Virginia Rally,https://www.youtube.com/watch?v=8-YMd3gDClE
+Trump phoenix,20170822,True,President Trump's full rally in Phoenix,https://www.youtube.com/watch?v=pfTvvLObtSc
+Trump UNGA,20170919,True,President Donald Trump Addresses the UN General Assembly,https://www.youtube.com/watch?v=YNOODD0wxZg
+JimmyKimmel GrahamCassidy Bill,20170920,True,"Jimmy Kimmel Fights Back Against Bill Cassidy, Lindsey Graham & Chris Christie",https://www.youtube.com/watch?v=wB5Hek7Z2b8
+Jimmy Kimmel LasVegas Shooting,20171003,True,Jimmy Kimmel on Mass Shooting in Las Vegas,https://www.youtube.com/watch?v=ruYeBXudsds
+Zuckerburgh Confession,20180412,True,Facebook CEO Mark Zuckerberg Delivers Opening Statement At Senate Hearing,https://www.youtube.com/watch?v=UofMQ8EGmSc
+Trump Fox Friends,20180426,True,Full interview: Trump calls in to Fox & Friends,https://www.youtube.com/watch?v=rx5hA9G_bac
+Trump NRA,20180504,True,Donald Trump's full speech at NRA annual convention,https://www.youtube.com/watch?v=ZWHmP2dEq2k
+Trump Naval,20180525,True,President Donald Trump Speaks At Naval Academy Graduation,https://www.youtube.com/watch?v=gGYGHeLjHsQ
+Trump Singapore,20180612,True,President Donald Trump's full Singapore press conference after historic North Korea summit,https://www.youtube.com/watch?v=1sGxi8Yv_vQ
+Trump lawn,20180615,False,,
+Trump NorthDakota,20180628,True,Watch Live: President Trump campaigns at rally in North Carolina,https://www.youtube.com/watch?v=yXDMeXLjTOI
+Trump NATO,20180712,True,President Trump speech at NATO summit Brussels Belgium. July 12 2018,https://www.youtube.com/watch?v=2rzYo_POpys
+Trump Tampa,20180731,True,President Trump Holds Rally in Tampa,https://www.youtube.com/watch?v=9d1_suLx5p0
+Trump Charleston,20180821,True,President Trump Holds Make America Great Again Rally,https://www.youtube.com/watch?v=g-dlmJf69GY
+60 min,20181015,False,,
+california senate,20181018,True,Califonia U.S. Senate Debate,https://www.youtube.com/watch?v=03PlS2np2wA
+Hawley McCaskil,20181018,True,The Missouri 2018 Senate Debate Republican Josh Hawley and Democrat Claire McCaskill,https://www.youtube.com/watch?v=B61JWZWDUm8
+DeSantis Gillum,20181021,True,Florida Gubernatorial Debate Ron DeSantis vs Andrew Gillum,https://www.youtube.com/watch?v=0Yck_OrbTvI
+DeSantis Gillum,20181024,True,Florida Gubernatorial Debate Ron DeSantis vs Andrew Gillum 2,https://www.youtube.com/watch?v=9cqefZ13Ock
+McCready Harris,20181102,True,President Donald Trump hosts MAGA rally today in Huntington,https://www.youtube.com/watch?v=zkxIEQec778
+Trump Huntington,20181102,True,President Donald Trump hosts MAGA rally today in Huntington,https://www.youtube.com/watch?v=zkxIEQec778
+trump pelosi,20181112,True,"Watch the full, on-camera shouting match between Trump",https://www.youtube.com/watch?v=6wm-NtMkqz8
+Trump CPAC,20190304,True,President Trump Delivers Remarks at the CPAC,https://www.youtube.com/watch?v=xeAxdxAxdmU
+Trump Campain Florida,20190619,True,President Trump holds rally in Orlando Florida,https://www.youtube.com/watch?v=gqGIAKrCABQ
+democratic debate Detroit 1,20190730,True,FULL 2nd Democratic debate 30 July 2019 (Night 1),https://www.youtube.com/watch?v=neVtNFPTsiQ
+democratic debate Detroit 2,20190731,True,FULL 2nd Democratic debate 31 July 2019 (Night 2),https://www.youtube.com/watch?v=Z-Kkc7gpSlc
