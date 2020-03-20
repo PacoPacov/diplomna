@@ -1,0 +1,84 @@
+Result Found! For file:  rev_search_results/response_GOP_cleveland_2015.html
+process_html: More then one match! Matches: 7 File:  rev_search_results/response_Trump_ABC_2017.html
+process_html: No results! File:  rev_search_results/response_democrats_charlston_2016.html
+Result Found! For file:  rev_search_results/response_GOP_miami_2016.html
+process_html: No results! File:  rev_search_results/response_Jimmy_Kimmel_LasVegas_Shooting_2017.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_NATO_2018.html
+process_html: More then one match! Matches: 7 File:  rev_search_results/response_GOP_michigan_2016.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_Fox_Friends_2018.html
+process_html: No results! File:  rev_search_results/response_JimmyKimmel_GrahamCassidy_Bill_2017.html
+process_html: No results! File:  rev_search_results/response_Trump_CPAC_2019.html
+process_html: No results! File:  rev_search_results/response_democrats_milwuakee_2016.html
+process_html: No results! File:  rev_search_results/response_kasich_milwuakee_2016.html
+process_html: More then one match! Matches: 2 File:  rev_search_results/response_NBC_commander_in_chief_forum_2016.html
+process_html: More then one match! Matches: 5 File:  rev_search_results/response_democratic_debate_Detroit_1_2019.html
+process_html: No results! File:  rev_search_results/response_Hawley_McCaskil_2018.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_press_conference_2017.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_vice_pres_2016.html
+process_html: No results! File:  rev_search_results/response_Trump_Campain_Florida_2019.html
+Result Found! For file:  rev_search_results/response_Trump_Nashville_2017.html
+process_html: No results! File:  rev_search_results/response_Trump_Roberston_interiew_2017.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Obama_state_of_the_union_2016.html
+process_html: No results! File:  rev_search_results/response_1pres_2016.html
+process_html: More then one match! Matches: 6 File:  rev_search_results/response_GOP_texas_2016.html
+process_html: No results! File:  rev_search_results/response_Trump_CEO_TownHall_2017.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_trump_pelosi_2018.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_Florida_2017.html
+process_html: No results! File:  rev_search_results/response_DeSantis_Gillum_2018.html
+process_html: More then one match! Matches: 5 File:  rev_search_results/response_democratic_debate_Detroit_2_2019.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_rick_scot_state_of_the_state_2016.html
+process_html: More then one match! Matches: 3 File:  rev_search_results/response_Trump_Milwaukee_2016.html
+process_html: No results! File:  rev_search_results/response_3pres_2016.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_democratic_debate_2019.html
+process_html: More then one match! Matches: 2 File:  rev_search_results/response_Trump_Charleston_2018.html
+process_html: No results! File:  rev_search_results/response_Trump_Oreilly_2017.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_Healthcare_2017.html
+process_html: More then one match! Matches: 8 File:  rev_search_results/response_Trump_WV_2017.html
+process_html: No results! File:  rev_search_results/response_Trump_NorthDakota_2018.html
+Result Found! For file:  rev_search_results/response_Trump_Singapore_2018.html
+process_html: No results! File:  rev_search_results/response_Trump_Tampa_2018.html
+process_html: More then one match! Matches: 7 File:  rev_search_results/response_Trump_lawn_2018.html
+Result Found! For file:  rev_search_results/response_GOP_greenville_2016.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_california_senate_2018.html
+process_html: No results! File:  rev_search_results/response_Tump_CPAC_2017.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_60_min_2018.html
+process_html: More then one match! Matches: 4 File:  rev_search_results/response_democrats_flint_2016.html
+process_html: More then one match! Matches: 8 File:  rev_search_results/response_democrats_miami_2016.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_NY_Police_2017.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_AP_interview_2017.html
+process_html: No results! File:  rev_search_results/response_Zuckerburgh_Confession_2018.html
+process_html: No results! File:  rev_search_results/response_GOP_boulder_2015.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_meet_the_press_2016.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Hillary_meet_the_press_2016.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Hillary_meet_the_press_2016.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_inauguration_2017.html
+process_html: More then one match! Matches: 8 File:  rev_search_results/response_third_presidential_debate_2012.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_Times_Interview_2017.html
+process_html: No results! File:  rev_search_results/response_Trump_CBS_FactTheNation_2017.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_meet_the_press_2016.html
+process_html: No results! File:  rev_search_results/response_GOP_milwuakee_2015.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Hillary_lying_for_13_minutes_video_2016.html
+Result Found! For file:  rev_search_results/response_Sanders_Cruz_healthcare_debate_2017.html
+Result Found! For file:  rev_search_results/response_Trump_immigration_Phoenix_2016.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_meet_the_press_2016.html
+process_html: More then one match! Matches: 8 File:  rev_search_results/response_Trump_Congress_joint_session_2017.html
+process_html: No results! File:  rev_search_results/response_DeSantis_Gillum_2018.html
+process_html: More then one match! Matches: 2 File:  rev_search_results/response_democrats_las_vegas_2015.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_NY_democratic_debate_2016.html
+Result Found! For file:  rev_search_results/response_Trump_phoenix_2017.html
+process_html: More then one match! Matches: 2 File:  rev_search_results/response_Trump_NBC_holt_interview_2017.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_democrats_new_hampshire_2016.html
+Result Found! For file:  rev_search_results/response_McCready_Harris_2018.html
+process_html: More then one match! Matches: 9 File:  rev_search_results/response_Trump_NRA_2018.html
+process_html: No results! File:  rev_search_results/response_2pres_2016.html
+process_html: No results! File:  rev_search_results/response_Cruz_Miluakee_2016.html
+process_html: More then one match! Matches: 6 File:  rev_search_results/response_Trump_Naval_2018.html
+process_html: No results! File:  rev_search_results/response_GOP_charlston_2016.html
+process_html: No results! File:  rev_search_results/response_Sanders_MeetThePress_2016.html
+process_html: More then one match! Matches: 11 File:  rev_search_results/response_Trump_press_conference_2017.html
+process_html: More then one match! Matches: 10 File:  rev_search_results/response_Cruz_meet_the_press_2016.html
+process_html: No results! File:  rev_search_results/response_Trump_Huntington_2018.html
+process_html: No results! File:  rev_search_results/response_Trump_draft_RNC_2016.html
+process_html: More then one match! Matches: 8 File:  rev_search_results/response_Trump_Paris_Climate_2017.html
+process_html: More then one match! Matches: 3 File:  rev_search_results/response_Trump_UNGA_2017.html
+process_html: No results! File:  rev_search_results/response_Trump_NY_Soho_2016.html
