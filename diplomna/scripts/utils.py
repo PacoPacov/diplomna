@@ -1,16 +1,18 @@
+import json
 import os
 
 import youtube_dl
+from youtube_transcript_api import YouTubeTranscriptApi
 
 
-def download_audio(audio_file, audio_url):
+def download_audio(audio_url, audio_file):
     """
     Download audio of youtube video:
-    :param audio_file: Name and path where to save the audio of youtube video
     :param audio_url: Video url.
+    :param audio_file: Name and path where to save the audio of youtube video.
 
     Example:
-    download_audio("Democratic Presidential Debate - June 26.mp3", "https://www.youtube.com/watch?v=vJ6MrDO0kgY")
+    download_audio("https://www.youtube.com/watch?v=vJ6MrDO0kgY", "Democratic Presidential Debate - June 26.mp3")
 
     OUT: /path/to/mp3/Democratic Presidential Debate - June 26.mp3
     """
@@ -19,4 +21,32 @@ def download_audio(audio_file, audio_url):
     with youtube_dl.YoutubeDL({'format': 'bestaudio', 'outtmpl': audio_file}) as ydl:
         ydl.download([audio_url])
 
-    return audio_file
+    return os.path.abspath(audio_file)
+
+
+def download_auto_generated_transcript(target_url, output_path):
+    """
+    Downloads the auto generated transcript that Google creates for YouTube.
+    :param target_url: Video url
+    :parma output_path: Name and path where to save the transcript in JSON format.
+
+    Example:
+    download_auto_generated_transcript("https://www.youtube.com/watch?v=vJ6MrDO0kgY", "Democratic Presidential Debate - June 26.json")
+    OUT: /path/to/mp3/Democratic Presidential Debate - June 26.mp3
+    """
+    url = target_url.replace("https://www.youtube.com/watch?v=", '')
+    transcript_list = YouTubeTranscriptApi.list_transcripts(url, 'en')
+
+    auto_generated_transcript = None
+
+    for transcript in transcript_list:
+        if transcript.is_generated:
+            auto_generated_transcript = transcript.fetch()
+
+    if auto_generated_transcript:
+        with open(output_path, 'w') as f:
+            json.dump(auto_generated_transcript, f, indent=4)
+
+        return os.path.abspath(output_path)
+    else:
+        print("Couldn't find english transcript")
