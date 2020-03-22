@@ -1,5 +1,6 @@
 import json
 import os
+import subprocess
 
 import youtube_dl
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -50,3 +51,20 @@ def download_auto_generated_transcript(target_url, output_path):
         return os.path.abspath(output_path)
     else:
         print("Couldn't find english transcript")
+
+
+def align_transcript(audio_file, transcript_file, output_path):
+    """
+    To use this method you need to install "Gentle Forced Aligner"
+    :param audio_file: Audio file
+    :param transcript_file: Transcript text file
+    :param output_path: Output filename. It will be in JSON format
+    """
+    try:
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+        subprocess.Popen(["python3", "gentle/align.py", "audiofile {}".format(audio_file),
+                          "txtfile {}".format(transcript_file), "--output {}".format(output_path)],
+                         stdout=subprocess.PIPE)
+    except OSError as e:
+        print("Raised OSError: {}".format(e))
