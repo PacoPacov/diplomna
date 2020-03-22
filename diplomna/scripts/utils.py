@@ -65,8 +65,7 @@ def align_transcript(audio_file, transcript_file, output_path):
     try:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-        subprocess.Popen(["python3", "gentle/align.py", "audiofile {}".format(audio_file),
-                          "txtfile {}".format(transcript_file), "--output {}".format(output_path)],
+        subprocess.Popen(["python3", "gentle/align.py", audio_file, transcript_file, "-o {}".format(output_path)],
                          stdout=subprocess.PIPE)
     except OSError as e:
         print("Raised OSError: {}".format(e))
@@ -82,6 +81,8 @@ def combine_claims_into_transcript(file_path, output_dir):
 
     os.makedirs(output_dir, exist_ok=True)
 
-    file_name = os.path.basename(file_path).replace(".csv", ".txt")
-    with open(os.path.join(output_dir, file_name), 'w') as f:
+    output_file = os.path.join(output_dir, os.path.basename(file_path).replace(".csv", ".txt"))
+    with open(output_file, 'w') as f:
         f.write(" ".join(input_data))
+
+    return output_file
