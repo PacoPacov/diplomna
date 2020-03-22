@@ -1,3 +1,4 @@
+import csv
 import json
 import os
 import subprocess
@@ -56,6 +57,7 @@ def download_auto_generated_transcript(target_url, output_path):
 def align_transcript(audio_file, transcript_file, output_path):
     """
     To use this method you need to install "Gentle Forced Aligner"
+    Also it will be a good think to install ffmpeg!
     :param audio_file: Audio file
     :param transcript_file: Transcript text file
     :param output_path: Output filename. It will be in JSON format
@@ -68,3 +70,18 @@ def align_transcript(audio_file, transcript_file, output_path):
                          stdout=subprocess.PIPE)
     except OSError as e:
         print("Raised OSError: {}".format(e))
+
+
+def combine_claims_into_transcript(file_path, output_dir):
+    input_data = []
+
+    with open(file_path, 'r') as rf:
+        csv_reader = csv.DictReader(rf)
+        for row in csv_reader:
+            input_data.append(row['claim'])
+
+    os.makedirs(output_dir, exist_ok=True)
+
+    file_name = os.path.basename(file_path).replace(".csv", ".txt")
+    with open(os.path.join(output_dir, file_name), 'w') as f:
+        f.write(" ".join(input_data))
