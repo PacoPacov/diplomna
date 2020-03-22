@@ -30,7 +30,7 @@ if __name__ == "__main__":
                 print('Download Audio')
                 record['audio_file'] = download_audio(record['annotation_url'],
                                                       os.path.join(DATASET_FOLDER, 'audios',
-                                                                   record['file_name'].replace('.csv', '.mp3')))
+                                                                   record['file_name'].replace('.csv', '.wav')))
             except DownloadError as e:
                 print("Download error", e)
             except RuntimeError as e:
