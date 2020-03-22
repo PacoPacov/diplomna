@@ -65,8 +65,7 @@ def align_transcript(audio_file, transcript_file, output_path):
     try:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-        subprocess.Popen(["python3", "gentle/align.py", audio_file, transcript_file, "-o {}".format(output_path)],
-                         stdout=subprocess.PIPE)
+        subprocess.run(["python3", "gentle/align.py", audio_file, transcript_file, "-o {}".format(output_path)])
     except OSError as e:
         print("Raised OSError: {}".format(e))
 
