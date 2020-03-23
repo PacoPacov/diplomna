@@ -1,5 +1,9 @@
 # Custom
 annotated_transcripts/
+audios/
+transcripts/
+aligns/
+auto_generated_transcripts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
