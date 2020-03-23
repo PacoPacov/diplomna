@@ -20,23 +20,21 @@ if __name__ == "__main__":
     output_path = os.path.join(DATASET_FOLDER, 'aligned_files')
     for record in data:
         if 'youtube' in record['annotation_url'] and record['timestamp'] not in ['20160311', '20160303', '20150805']:
+            annotated_file = os.path.join(DATASET_FOLDER, 'annotated_transcripts', record['file_name'])
+            transcript_file = os.path.join(DATASET_FOLDER, 'transcripts')
             print('********** Create transcript **********')
-            record['transcript_file'] = combine_claims_into_transcript(os.path.join(DATASET_FOLDER,
-                                                                                    'annotated_transcripts',
-                                                                                    record['file_name']),
-                                                                       os.path.join(DATASET_FOLDER, 'transcripts'))
+            record['transcript_file'] = combine_claims_into_transcript(annotated_file, transcript_file)
 
             try:
+                audio_file = os.path.join(DATASET_FOLDER, 'audios', record['file_name'].replace('.csv', '.wav'))
                 print('********** Download Audio **********')
-                record['audio_file'] = download_audio(record['annotation_url'],
-                                                      os.path.join(DATASET_FOLDER, 'audios',
-                                                                   record['file_name'].replace('.csv', '.wav')))
+                record['audio_file'] = download_audio(record['annotation_url'], audio_file)
             except DownloadError as e:
                 print("********** Download error: ", e)
             except RuntimeError as e:
                 print("********** Runtime error: {}".format(e))
 
-            if record.get('audio_file')  and record.get('transcript_file'):
+            if record.get('audio_file') and record.get('transcript_file'):
+                aligned_transcript = os.path.join(output_path, record['file_name'].replace('.csv', '.json'))
                 print('********** Align transcript **********')
-                align_transcript(record['audio_file'], record['transcript_file'],
-                                 os.path.join(output_path, record['file_name'].replace('.csv', '.json')))
+                align_transcript(record['audio_file'], record['transcript_file'], aligned_transcript)
