@@ -42,7 +42,7 @@ def download_auto_generated_transcript(target_url, output_path):
     auto_generated_transcript = None
 
     for transcript in transcript_list:
-        if transcript.is_generated:
+        if transcript.language_code == 'en':
             auto_generated_transcript = transcript.fetch()
 
     if auto_generated_transcript:
