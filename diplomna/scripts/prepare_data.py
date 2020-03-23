@@ -20,21 +20,23 @@ if __name__ == "__main__":
     output_path = os.path.join(DATASET_FOLDER, 'aligned_files')
     for record in data:
         if 'youtube' in record['annotation_url'] and record['timestamp'] not in ['20160311', '20160303', '20150805']:
-            print('Create transcript')
+            print('********** Create transcript **********')
             record['transcript_file'] = combine_claims_into_transcript(os.path.join(DATASET_FOLDER,
                                                                                     'annotated_transcripts',
                                                                                     record['file_name']),
                                                                        os.path.join(DATASET_FOLDER, 'transcripts'))
 
             try:
-                print('Download Audio')
+                print('********** Download Audio **********')
                 record['audio_file'] = download_audio(record['annotation_url'],
                                                       os.path.join(DATASET_FOLDER, 'audios',
                                                                    record['file_name'].replace('.csv', '.wav')))
             except DownloadError as e:
-                print("Download error", e)
+                print("********** Download error: ", e)
             except RuntimeError as e:
-                print("RuntimeError {}".format(e))
+                print("********** Runtime error: {}".format(e))
 
-            print('Align transcript')
-            align_transcript(record['audio_file'], record['transcript_file'], output_path)
+            if record.get('audio_file')  and record.get('transcript_file'):
+                print('********** Align transcript **********')
+                align_transcript(record['audio_file'], record['transcript_file'],
+                                 os.path.join(output_path, record['file_name'].replace('.csv', '.json')))
